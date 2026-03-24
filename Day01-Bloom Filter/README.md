@@ -1,22 +1,25 @@
 # Day 1 — Bloom Filter
 
-## What is it?
-A probabilistic data structure used to test whether an element exists in a set with possible false positives but no false negatives.
+## Idea in one line
+Check if something **probably exists** using almost no memory.
 
-## Why it matters
-- Extremely memory efficient
-- Fast lookup
-- Useful for large datasets
+## Why it’s interesting
+- Extremely space efficient
+- Fast membership checks
+- No storage of actual values
 
-## Real-world usage
+## Where it's used
 - Database query filtering
-- Web caching
+- Web cache systems
 - Spam detection
 
+## How it works
+Multiple hash functions mark positions in a bit array.  
+Query checks those positions.
+
 ## Complexity
-Time: O(k)
+Time: O(k)  
 Space: O(m)
 
 ## When to use
-- Membership checks
-- Large-scale systems
+When you need **fast existence checks** for huge datasets.
