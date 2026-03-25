@@ -19,7 +19,7 @@ Each entry includes concise explanation, use cases, and implementation.
 | Day 7 | Cuckoo Hashing     | Hashing Optimization          |
 | Day 8 | LRU Cache          | Cache Design                  |
 | Day 9 | Idempotency        | Reliable Systems              |
-
+| Day 10| Rate Limiting      | API Protection
 ---
 
 ## ⚙️ Focus Areas
@@ -51,4 +51,3 @@ Active and continuously expanding with additional advanced concepts.
 ## 👤 Author
 
 Gayatri
-Computer Science Engineer
