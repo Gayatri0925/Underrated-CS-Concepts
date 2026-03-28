@@ -21,7 +21,7 @@ Each entry includes concise explanation, use cases, and implementation.
 | Day 9 | Idempotency        | Reliable Systems              |
 | Day 10| Rate Limiting      | API Protection                |
 |Day 11 | Circuit Breaker    | Distributed Systems           |
-
+|Day 12 | Bulkhead Pattern   | Distributed Systems           |
 ---
 
 ## ⚙️ Focus Areas
