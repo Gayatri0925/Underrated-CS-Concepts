@@ -27,7 +27,7 @@ Example delays:
 
 ### Where used
 - API retries
-- Microservices communication
+- Microservices communications
 - Cloud SDKs (AWS, GCP)
 - Database connections
 
